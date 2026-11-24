@@ -1,0 +1,6 @@
+-- B01/B02 no crean usuarios de Auth desde SQL: eso exige la API de administración.
+-- Los datos ficticios de dos academias, tres roles, ciclos, matrículas y cargos
+-- se generan con:
+--   node scripts/seed-b01-demo.mjs
+-- El script usa SUPABASE_SERVICE_ROLE_KEY solo del lado servidor y no la guarda
+-- en el repositorio. No se insertan datos personales reales.

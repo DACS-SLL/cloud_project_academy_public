@@ -1,0 +1,12 @@
+{
+  "edition": "public-clean-history",
+  "date": "2026-11-24",
+  "sourceCommit": "5c24b7a702ff01795b864e07831c03e4d32f5535",
+  "demoAccess": "team-only",
+  "license": "MIT",
+  "excluded": [
+    "docs/GUIA_TECNICA_Y_OPERATIVA.md",
+    "docs/PREPARACION_PUBLICACION.md"
+  ],
+  "academicArchiveIncluded": false
+}
